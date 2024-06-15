@@ -1,0 +1,5 @@
+Period,Simple Variant Entropy,Simple Normalized Variant Entropy,Simple Sequence Entropy,Simple Normalized Sequence Entropy,Magnitude,Support,Variety,Minimum trace length,Average trace length,Maximum trace length,Level of detail,Pentland task complexity,Pentland process complexity,Lempel-Ziv,Distinct traces,Distinct traces (percentage),Structure,Affinity,Deviation from random,Average edit distance
+1,0.0,0.0,0.0,0.0,300.0,50.0,6.0,6.0,6.0,6.0,6.0,6.0,1.0,98.0,1.0,2.0,0.8611111111111112,1.0,0.5850033467337088,0.0
+2,0.0,0.0,0.0,0.0,300.0,50.0,6.0,6.0,6.0,6.0,6.0,6.0,1.0,99.0,1.0,2.0,0.8611111111111112,1.0,0.5850033467337088,0.0
+3,0.0,0.0,0.0,0.0,150.0,50.0,3.0,3.0,3.0,3.0,3.0,3.0,1.0,38.0,1.0,2.0,0.7777777777777778,1.0,0.3763904355376765,0.0
+4,0.0,0.0,0.0,0.0,150.0,50.0,3.0,3.0,3.0,3.0,3.0,3.0,1.0,39.0,1.0,2.0,0.7777777777777778,1.0,0.3763904355376765,0.0
